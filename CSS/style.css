@@ -1,0 +1,14 @@
+*{
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.36), rgba(0, 0, 0, 0.475)), url('bonfire.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
